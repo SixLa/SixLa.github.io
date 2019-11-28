@@ -579,7 +579,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .dropdown .dropdown-item:focus,
 .dropdown .dropdown-item:hover,
 .dropdown .dropdown-item.active {
-  color: #00b4d9;
+  color: #FEE7F0;
 }
 
 .dropdown-item.active, .dropdown-item:active {
@@ -592,11 +592,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .slicknav_btn {
-  border-color: #00b4d9;
+  border-color: #FEE7F0;
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #00b4d9;
+  background: #FEE7F0;
 }
 
 /* only small tablets */
@@ -643,7 +643,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
-    color: #00b4d9;
+    color: #FEE7F0;
     outline: none;
     background: #f8f9fa;
   }
@@ -965,7 +965,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 
   .footer-area .footer-text p a {
-    color: #00b4d9;
+    color: #FEE7F0;
   }
 
   .footer-area .footer-text .nav-inline .nav-link {
@@ -974,7 +974,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 
   .footer-area .footer-text .nav-inline .nav-link:hover {
-    color: #00b4d9;
+    color: #FEE7F0;
   }
 
   .footer-2 {
@@ -1008,7 +1008,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 
   .footer-2 ul li a:hover {
-    color: #00b4d9;
+    color: #FEE7F0;
   }
 
   #copyright {
@@ -1026,5 +1026,5 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 
   #copyright p a:hover {
-    color: #00b4d9;
+    color: #FEE7F0;
   }
